@@ -1,2 +1,8 @@
 this is a new file
+this is a new change
+for a file
+
+B
+
+D
 this is a forked file and pull equest
